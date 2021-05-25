@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Football App</h1>
         <>
-          whuzzup?
+          Place holder
         </>
       </header>
     </div>
